@@ -39,7 +39,12 @@ MySQL • MongoDB
 2. Trekking Management System
    A management system designed to organize trekking-related operations, users, bookings, and management workflows.
 
+3.  NetWatch-Network Traffic Anomaly Detection Security Monitoring Platform
+    A cybersecurity platform that analyzes network traffic and PCAP files, detects suspicious behavior using rule-based and ML-based anomaly detection, assigns        risk severity, and visualizes security events through a real-time monitoring dashboard.
 
+4.  SentinelAI-AI-Powered-Security-Operations-Center-SOC-Assistant
+    SentinelAI is an AI-powered cybersecurity monitoring platform that analyzes security logs in real time, detects threats such as brute-force attacks,suspicious     IP activity, and port scanning, assigns risk scores, and generates actionable alerts for security analysts through an interactive SOC dashboard.
+    
 ## 🏆 Achievements & Experience
 
 - 🔬 Research work in Blockchain Technology
