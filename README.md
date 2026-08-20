@@ -36,6 +36,90 @@ I'm a Computer Science Engineering student specializing in Cyber Security, inter
 
 ---
 
+## 🖥️ Cybersecurity Terminal
+
+```text
+┌──[ laxmi@cybersec ]─[ ~ ]
+│
+├── whoami
+│   └── CSE Cyber Security Student
+│
+├── focus
+│   ├── Cybersecurity
+│   ├── Artificial Intelligence
+│   ├── Full-Stack Development
+│   └── Network Security
+│
+├── interests
+│   ├── Digital Forensics
+│   ├── Threat Detection
+│   ├── Security Monitoring
+│   └── AI-powered Security
+│
+├── projects
+│   ├── SentinelAI
+│   ├── NetWatch
+│   └── Intrusion Detection System
+│
+└── status
+    └── ● BUILDING & LEARNING
+```
+
+---
+
+## 🧠 What I Build
+
+### 🔐 Security Tools
+
+Threat detection • Security monitoring • IDS/IPS • Log analysis
+
+### 🌐 Network Systems
+
+Network traffic analysis • Anomaly detection • Network monitoring
+
+### 🤖 AI for Cybersecurity
+
+AI-powered security assistants • Threat analysis • Security automation
+
+### 💻 Full-Stack Applications
+
+Dashboards • REST APIs • Database-driven applications • Management systems
+
+---
+
+## 🛡️ Cybersecurity Lab
+
+```text
+🔎 Network Analysis
+   Nmap • Wireshark • TCP/IP • Network Monitoring
+
+🚨 Threat Detection
+   IDS/IPS • Log Analysis • Suspicious Activity Detection
+
+🧪 Digital Forensics
+   Evidence Analysis • Investigation • Security Analysis
+
+🌐 Network Security
+   DNS • HTTP/HTTPS • TCP/UDP • Ports
+
+🤖 Security Automation
+   Python • AI/ML • Security Tools
+```
+
+---
+
+## 🎯 Current Focus
+
+| Area                | Focus                                         |
+| ------------------- | --------------------------------------------- |
+| 🔐 Cybersecurity    | Advanced security concepts & threat detection |
+| 🌐 Network Security | Traffic analysis & network monitoring         |
+| 🤖 AI / ML          | Applying AI to cybersecurity                  |
+| 💻 Full-Stack       | Building practical web applications           |
+| ⚡ DSA               | Problem solving & algorithmic thinking        |
+
+---
+
 ## ⚡ Tech Stack
 
 ### 💻 Languages
@@ -108,11 +192,33 @@ A management system designed to organize trekking-related operations, users, boo
 
 ---
 
-<div align="center">
+## 🏆 Journey
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0EA5E9,100:06B6D4&height=3&section=header" width="100%"/>
+```text
+2024
+│
+├── 🎓 Started CSE Cyber Security
+│
+│
+2025
+│
+├── 🔬 Blockchain Research Work
+├── 💡 Smart Water Purification Patent Work
+├── ☁️ AWS Cloud Bootcamp
+├── 🧠 IBM Bootcamp
+└── 🔐 Ethical Hacking Coursework
+│
+│
+2026
+│
+├── 🚀 Hackathon Participation
+├── 🔐 Intrusion Detection System
+├── 🌐 NetWatch
+├── 🤖 SentinelAI
+└── 💻 Full-Stack Projects
+```
 
-</div>
+---
 
 ## 🏆 Achievements & Experience
 
@@ -122,16 +228,6 @@ A management system designed to organize trekking-related operations, users, boo
 * 🧠 IBM Bootcamp
 * 🔐 Ethical Hacking Coursework
 * 🚀 Hackathon Participation
-
----
-
-## 🌱 Currently Learning
-
-* 🔐 Advanced Cybersecurity
-* 🌐 Network Security
-* 🧠 Machine Learning & AI
-* ⚡ Data Structures & Algorithms
-* 💻 Advanced Full-Stack Development
 
 ---
 
@@ -149,7 +245,7 @@ A management system designed to organize trekking-related operations, users, boo
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:laxmi9877y@gmail.com">
+<a href="mailto:laxmi9877@gmail.com">
 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
