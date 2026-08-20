@@ -18,12 +18,12 @@
 
 I'm a Computer Science Engineering student specializing in Cyber Security, interested in building practical solutions across cybersecurity, full-stack development, networking, and AI/ML.
 
-- 🎓 CSE Cyber Security Student
-- 🔐 Exploring Cybersecurity & Digital Forensics
-- 💻 Building Full-Stack Applications
-- 🤖 Exploring AI/ML
-- 🧠 Practicing DSA & Problem Solving
-- 🚀 Interested in solving real-world problems through technology
+* 🎓 CSE Cyber Security Student
+* 🔐 Exploring Cybersecurity & Digital Forensics
+* 💻 Building Full-Stack Applications
+* 🤖 Exploring AI/ML
+* 🧠 Practicing DSA & Problem Solving
+* 🚀 Interested in solving real-world problems through technology
 
 ---
 
@@ -53,23 +53,33 @@ Git • GitHub • Linux • VS Code
 
 ## 🚀 Featured Projects
 
-### 🔐 Intrusion Detection Dashboard
+### 🤖 SentinelAI — AI-Powered Security Operations Center (SOC) Assistant
 
-A full-stack cybersecurity dashboard for monitoring suspicious activity, failed login attempts, suspicious IPs, logs, and blocked addresses.
+An AI-powered cybersecurity assistant designed to support security operations by helping analyze security information, identify threats, and assist with SOC workflows.
 
-**Tech:** React • Node.js • MongoDB • Cybersecurity
+**Tech:** AI/ML • Cybersecurity • Python
 
-🔗 [View Project](YOUR_REPOSITORY_LINK)
+🔗 [View Project](https://github.com/laxmi-1111/SentinelAI-AI-Powered-Security-Operations-Center-SOC-Assistant)
 
 ---
 
-### 🌐 NetWatch — Network Traffic Anomaly Detector
+### 🌐 NetWatch — Network Traffic Anomaly Detection & Security Monitoring Platform
 
-A cybersecurity project focused on analyzing network traffic and identifying unusual patterns that may indicate suspicious activity.
+A cybersecurity platform focused on monitoring network traffic, identifying unusual patterns, and detecting potential security threats.
 
-**Tech:** Python • Networking • Machine Learning
+**Tech:** Python • Networking • Cybersecurity • Machine Learning
 
-🔗 [View Project](YOUR_REPOSITORY_LINK)
+🔗 [View Project](https://github.com/laxmi-1111/NetWatch---Network-Traffic-Anomaly-Detection-Security-Monitoring-Platform)
+
+---
+
+### 🔐 Intrusion Detection System
+
+A full-stack cybersecurity system designed to monitor suspicious activity, failed login attempts, suspicious IP addresses, security logs, and blocked addresses.
+
+**Tech:** React • Node.js • MongoDB • Cybersecurity
+
+🔗 [View Project](https://github.com/laxmi-1111/Intrusion-Detection-System)
 
 ---
 
@@ -77,42 +87,30 @@ A cybersecurity project focused on analyzing network traffic and identifying unu
 
 A management system designed to organize trekking-related operations, users, bookings, and management workflows.
 
-**Tech:** Add your actual technologies here
+**Tech:** Full-Stack Development • Database Management
 
-🔗 [View Project](YOUR_REPOSITORY_LINK)
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=laxmi-1111&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=laxmi-1111&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
-
-</div>
+🔗 [View Project](https://github.com/laxmi-1111/trekking-management-system)
 
 ---
 
 ## 🏆 Achievements & Experience
 
-- 🔬 Research work in Blockchain Technology
-- 💡 Patent work on Smart Water Purification & Quality Monitoring
-- ☁️ AWS Cloud Bootcamp
-- 🧠 IBM Bootcamp
-- 🔐 Ethical Hacking Coursework
-- 🚀 Hackathon Participation
+* 🔬 Research work in Blockchain Technology
+* 💡 Patent work on Smart Water Purification & Quality Monitoring
+* ☁️ AWS Cloud Bootcamp
+* 🧠 IBM Bootcamp
+* 🔐 Ethical Hacking Coursework
+* 🚀 Hackathon Participation
 
 ---
 
 ## 🌱 Currently Learning
 
-- 🔐 Advanced Cybersecurity
-- 🌐 Network Security
-- 🧠 Machine Learning & AI
-- ⚡ Data Structures & Algorithms
-- 💻 Advanced Full-Stack Development
+* 🔐 Advanced Cybersecurity
+* 🌐 Network Security
+* 🧠 Machine Learning & AI
+* ⚡ Data Structures & Algorithms
+* 💻 Advanced Full-Stack Development
 
 ---
 
@@ -133,8 +131,6 @@ A management system designed to organize trekking-related operations, users, boo
 ---
 
 <div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=laxmi-1111&label=Profile%20Views&color=0e75b6&style=flat" />
 
 ### 🚀 Build. Secure. Learn. Repeat.
 
