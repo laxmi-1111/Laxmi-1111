@@ -1,14 +1,22 @@
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:0EA5E9,100:06B6D4&height=180&section=header&text=LAXMI&fontSize=50&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Cybersecurity%20%7C%20Full-Stack%20%7C%20AI%2FML&descAlignY=60&descSize=18" width="100%"/>
+
 # 👋 Hi, I'm Laxmi
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=CSE+Cyber+Security+Student;Full-Stack+Developer;Cybersecurity+Enthusiast;AI%2FML+Explorer;Building+Real-World+Projects+%F0%9F%9A%80" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=CSE+Cyber+Security+Student;Full-Stack+Developer;Cybersecurity+Enthusiast;AI%2FML+Explorer;Building+Real-World+Projects+%F0%9F%9A%80" />
 
 <p>
   <b>CSE Cyber Security Student</b> •
   <b>Full-Stack Developer</b> •
   <b>Cybersecurity Enthusiast</b>
 </p>
+
+</div>
+
+<div align="center">
+
+`🔐 SECURITY` • `💻 DEVELOPMENT` • `🤖 AI/ML` • `🌐 NETWORKING`
 
 </div>
 
@@ -23,6 +31,7 @@ I'm a Computer Science Engineering student specializing in Cyber Security, inter
 * 💻 Building Full-Stack Applications
 * 🤖 Exploring AI/ML
 * 🧠 Practicing DSA & Problem Solving
+* 🌐 Exploring Network Security
 * 🚀 Interested in solving real-world problems through technology
 
 ---
@@ -51,6 +60,12 @@ Git • GitHub • Linux • VS Code
 
 ---
 
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0EA5E9,100:06B6D4&height=3&section=header" width="100%"/>
+
+</div>
+
 ## 🚀 Featured Projects
 
 ### 🤖 SentinelAI — AI-Powered Security Operations Center (SOC) Assistant
@@ -59,7 +74,7 @@ An AI-powered cybersecurity assistant designed to support security operations by
 
 **Tech:** AI/ML • Cybersecurity • Python
 
-🔗 [View Project](https://github.com/laxmi-1111/SentinelAI-AI-Powered-Security-Operations-Center-SOC-Assistant)
+🔗 **[View Project →](https://github.com/laxmi-1111/SentinelAI-AI-Powered-Security-Operations-Center-SOC-Assistant)**
 
 ---
 
@@ -69,7 +84,7 @@ A cybersecurity platform focused on monitoring network traffic, identifying unus
 
 **Tech:** Python • Networking • Cybersecurity • Machine Learning
 
-🔗 [View Project](https://github.com/laxmi-1111/NetWatch---Network-Traffic-Anomaly-Detection-Security-Monitoring-Platform)
+🔗 **[View Project →](https://github.com/laxmi-1111/NetWatch---Network-Traffic-Anomaly-Detection-Security-Monitoring-Platform)**
 
 ---
 
@@ -79,7 +94,7 @@ A full-stack cybersecurity system designed to monitor suspicious activity, faile
 
 **Tech:** React • Node.js • MongoDB • Cybersecurity
 
-🔗 [View Project](https://github.com/laxmi-1111/Intrusion-Detection-System)
+🔗 **[View Project →](https://github.com/laxmi-1111/Intrusion-Detection-System)**
 
 ---
 
@@ -89,9 +104,15 @@ A management system designed to organize trekking-related operations, users, boo
 
 **Tech:** Full-Stack Development • Database Management
 
-🔗 [View Project](https://github.com/laxmi-1111/trekking-management-system)
+🔗 **[View Project →](https://github.com/laxmi-1111/trekking-management-system)**
 
 ---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0EA5E9,100:06B6D4&height=3&section=header" width="100%"/>
+
+</div>
 
 ## 🏆 Achievements & Experience
 
@@ -114,6 +135,12 @@ A management system designed to organize trekking-related operations, users, boo
 
 ---
 
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0EA5E9,100:06B6D4&height=3&section=header" width="100%"/>
+
+</div>
+
 ## 🤝 Let's Connect
 
 <div align="center">
@@ -128,10 +155,16 @@ A management system designed to organize trekking-related operations, users, boo
 
 </div>
 
----
+<br>
 
 <div align="center">
 
 ### 🚀 Build. Secure. Learn. Repeat.
+
+</div>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:0EA5E9,100:06B6D4&height=100&section=footer" width="100%"/>
 
 </div>
